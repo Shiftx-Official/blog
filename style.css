@@ -26,3 +26,10 @@
   opacity: 1;
 }   
 }
+  body {
+   background-color: RGB(0,0,0);
+  }
+   p {
+   color: white;
+   font-family: sans-serif;
+   }
